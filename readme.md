@@ -1,6 +1,9 @@
-----
-description: This is seo stuff
-----
+TODO:
+* edit intro
+* make sure lorem ipsum is good and code tutorial is adequate
+* streamyard setup
+* schedule stream
+* streamyard interstitials? 
 
 # Opening Blurb
 
@@ -36,47 +39,49 @@ Okay, Chefs. You both have used Nextra to build your sites. But today, we're goi
 
 Over the course of the next 30m, we're going to walkthrough implementing a pre-set amount of documentation text 
 
-## Install and Import
+## Challenge #0: Install and Import 🏗️
 
---Customization?
-* Sidebar (priyank) 
-* UX customization (luke) (theme colors, dark/light mode, tailwind)
+## Challenge #1: Customization 🎨
 
---Code
-(Coogan to create two demos for luke and priyank; )
+Priyank:
+* Sidebar
 
-- Code support: Code snippets / tabs support; LaTex / KaTeX support, REST / RPC API reference
+Luke:
+* UX customization (theme colors, dark/light mode, tailwind)
 
-(luke)
+## Challenge #2: Code Support 🧑‍💻
+
+Luke:
  - Copy code button 
  - Line numbers
  - Show file name at the top of code
 
-(priyank)
+Priyank:
 - code tabs (python / javascript combination)
 
--- REST / RPC references
+## Challenge #3: REST / API && RPC references 🔂
 
-- REST API Reference (luke) 
+Luke:
+- REST API Reference
  - Bring api.json file
  - Install Swagger UI
  - Hack in custom css
 
-- RPC Reference (priyank)
+Priyank:
+- RPC Reference
  - document some RPC API methods
  - only raw markdown
 
---Search
-* Search Support / index (priyank?) 
-* SEO Support (luke?)
+## Challenge #4: Search and SEO 🔎
+Priyank:
+* Search Support / index
 
+Luke:
+* SEO Support
 
-# Flair ✨
-
-- Icon Animations (can talk about, but hard to demo)
-
-# Takeaways
+# Takeaways 🤨
 
 - Questions to ask about Nextra?
 - Pros / Cons
-- 
+- Internationalization
+- Final Points tally
