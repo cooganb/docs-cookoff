@@ -1,0 +1,23 @@
+{
+    "welcome": {
+         "title": "Welcome"
+    },
+
+    "quickstart" : {
+        "title": "Quickstart"
+    },
+
+    "tutorials": {
+        "title": "Tutorials"
+    },
+
+    "components": {
+        "title": "Components"
+    },
+
+    "faq": {
+        "title": "FAQs"
+    }
+
+    
+}
