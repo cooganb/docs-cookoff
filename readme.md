@@ -6,8 +6,9 @@
 
 ​For each Docs Cook-off, we select a popular documentation platform or service. Then, we bring in a world-class team to help us cook up a few challenges with that platform. For each challenge, we use the same lorem ipsum text and documentation filler.
 
-​In this session, Luke from Irys (https://x.com/spaceagente) and Priyank from Avail (twitter.com/PriyankGupta03) slice and dice with Nextra, the documentation platform based on Next.js.
+Each documentation platform has its own branch in this repo. So far, the ones we have available are:
 
-Clone this repo to follow along!
+* Nextra
+* Mintlify (🔜)
+* Docusaurus (🔜)
 
-[Luma invite](https://lu.ma/95bfczuz)
