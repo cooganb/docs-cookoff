@@ -1,8 +1,6 @@
 ![promo header](./assets/cook-off-promo.png)
 
-# 👨‍🍳👨‍🍳 Docs Cook-Off: Nextra Edition
-
-[Luma invite](https://lu.ma/95bfczuz)
+# 👨‍🍳👨‍🍳 Docs Cook-Off Main Repo
 
 ​Welcome to Docs Cook-Off! Where we sizzle sidebars, marinate markdown and juilenne javascript to help you find the perfect platform for your documentation needs.
 
