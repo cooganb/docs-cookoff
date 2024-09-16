@@ -10,3 +10,18 @@ This is the **Nextra** branch, featuring Nextra, the documentation platform buil
 
 _You can see us build the first few commits on this repo in [this livestream here.](https://x.com/spaceagente/status/1833854487557226744)_
 
+## Running This Repo
+
+_Prequisites: npm 10.8.2, node 20.17.0
+
+You can run this repo locally by running:
+
+```bash
+npm i
+```
+
+```bash
+npm run dev
+```
+
+And opening the local host (typically http://localhost:3000)
