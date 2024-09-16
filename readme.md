@@ -1,15 +1,12 @@
+# Docs Coof-Off : Nextra Edition
+
 ![promo header](./assets/cook-off-promo.png)
 
 # 👨‍🍳👨‍🍳 Docs Cook-Off: Nextra Edition
 
-[Luma invite](https://lu.ma/95bfczuz)
-
 ​Welcome to Docs Cook-Off! Where we sizzle sidebars, marinate markdown and juilenne javascript to help you find the perfect platform for your documentation needs.
 
-​For each Docs Cook-off, we select a popular documentation platform or service. Then, we bring in a world-class team to help us cook up a few challenges with that platform. For each challenge, we use the same lorem ipsum text and documentation filler.
+This is the **Nextra** branch, featuring Nextra, the documentation platform built on Next.js. It's the documentation engine behind the docs for [GraphQL](https://graphql.org/), [CodeSandbox](https://codesandbox.io/docs/learn), [Auth.js](https://authjs.dev/), [Irys](https://docs.irys.xyz/), [Avail](https://docs.availproject.org/) and more. 
 
-​In this session, Luke from Irys (https://x.com/spaceagente) and Priyank from Avail (twitter.com/PriyankGupta03) slice and dice with Nextra, the documentation platform based on Next.js.
+_You can see us build the first few commits on this repo in [this livestream here.](https://x.com/spaceagente/status/1833854487557226744)_
 
-Clone this repo to follow along!
-
-[Luma invite](https://lu.ma/95bfczuz)
