@@ -1,98 +1,136 @@
+import {Tabs} from 'nextra/components'
+
 ## Quickstart
 
 Kickstart your journey with our quickstart guide, where simplicity meets style. Follow these steps, and you'll be up and running faster than you can say "cold brew."
 
 ## Installation
 
-```javascript
-// Install the necessary dependencies
-npm install cool-library --save
-```
+<Tabs items={['Javascript', 'Python']}>
 
-```python
-pip install cool-library
-```
+  <Tabs.Tab>
+    ```bash
+    npm install cool-library --save
+    ```
+  </Tabs.Tab>
+
+  <Tabs.Tab>
+    ```bash
+    pip install cool-library
+    ```
+  </Tabs.Tab>
+
+</Tabs>
 
 ## Initialization
 
-<span className="text-5xl">This is big text</span>
+<Tabs items={['Javascript', 'Python']}>
 
-```js showLineNumbers filename="init.js" copy
-// Import and initialize the library
-import CoolLibrary from 'cool-library';
+  <Tabs.Tab>
+    ```js filename="main.js" showLineNumbers
+    // Import and initialize the library
+    import CoolLibrary from 'cool-library';
 
-const app = new CoolLibrary({
-  flavor: 'espresso',
-  vibe: 'chill'
-});
-```
+    const app = new CoolLibrary({
+      flavor: 'espresso',
+      vibe: 'chill'
+    });
+    ```
+  </Tabs.Tab>
 
-```python
-# Import and initialize the library
-from cool_library import CoolLibrary
+  <Tabs.Tab>
+    ```python filename="main.py" showLineNumbers
+    # Import and initialize the library
+    from cool_library import CoolLibrary
 
-app = CoolLibrary(flavor='espresso', vibe='chill')
-```
+    app = CoolLibrary(flavor='espresso', vibe='chill')
+    ```
+  </Tabs.Tab>
+
+</Tabs>
 
 ## Configuration
 
-```javascript
-// Set up your configuration
-app.configure({
-  apiKey: 'your-api-key',
-  debugMode: true,
-  theme: 'minimalist'
-});
+<Tabs items={['Javascript', 'Python']}>
 
-```
+  <Tabs.Tab>
+    ```javascript filename="config.js" showLineNumbers
+    // Set up your configuration
+    app.configure({
+      apiKey: 'your-api-key',
+      debugMode: true,
+      theme: 'minimalist'
+    });
+    ```
+  </Tabs.Tab>
 
-```python
-# Set up your configuration
-app.configure(
-    api_key='your-api-key',
-    debug_mode=True,
-    theme='minimalist'
-)
-```
+  <Tabs.Tab>
+    ```python filename="config.py" showLineNumbers
+    # Set up your configuration
+    app.configure(
+        api_key='your-api-key',
+        debug_mode=True,
+        theme='minimalist'
+    )
+    ```
+  </Tabs.Tab>
+
+</Tabs>
 
 ## Basic Usage
 
-```javascript
-// Basic usage example
-app.start(() => {
-  console.log('App is running with a vintage touch!');
-});
+<Tabs items={['Javascript', 'Python']}>
 
-```
+  <Tabs.Tab>
+    ```javascript filename="src/app.js" showLineNumbers
+    // Basic usage example
+    app.start(() => {
+      console.log('App is running with a vintage touch!');
+    });
+    ```
+  </Tabs.Tab>
 
-```python
-# Basic usage example
-def callback():
-    print('App is running with a vintage touch!')
+  <Tabs.Tab>
+    ```python filename="main.py" showLineNumbers
+    # Basic usage example
+    def callback():
+        print('App is running with a vintage touch!')
 
-app.start(callback)
-```
+    app.start(callback)
+    ```
+  </Tabs.Tab>
+
+</Tabs>
 
 ## Customization
 
-```javascript
-// Customize the experience
-app.customize({
-  font: 'Roboto Mono',
-  colorScheme: 'dark',
-  animations:
+<Tabs items={['Javascript', 'Python']}>
 
-```
+  <Tabs.Tab>
+    
+    ```javascript filename="src/app.js" showLineNumbers
+    // Customize the experience
+    app.customize({
+      font: 'Roboto Mono',
+      colorScheme: 'dark',
+      animations:
 
-```python
-# Customize the experience
-app.customize(
-    font='Roboto Mono',
-    color_scheme='dark',
-    animations={
-        'enable': True,
-        'speed': 'fast',
-        'transitions': ['fade', 'slide']
-    }
-)
-```
+    ```
+  </Tabs.Tab>
+
+  <Tabs.Tab>
+    ```python filename="main.py" showLineNumbers
+    # Customize the experience
+    app.customize(
+        font='Roboto Mono',
+        color_scheme='dark',
+        animations={
+            'enable': True,
+            'speed': 'fast',
+            'transitions': ['fade', 'slide']
+        }
+    )
+    ```
+  </Tabs.Tab>
+
+</Tabs>

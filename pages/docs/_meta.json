@@ -15,6 +15,10 @@
         "title": "Components"
     },
 
+    "api": {
+        "title": "API"
+    },
+
     "faq": {
         "title": "FAQs"
     }
