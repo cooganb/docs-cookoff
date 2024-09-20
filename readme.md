@@ -4,6 +4,8 @@
 
 # 👨‍🍳👨‍🍳 Docs Cook-Off: Nextra Edition
 
+_Huge thank-you to Luke and Priyank for all their assistance, feedback and wisdom in helping me with this._ 
+
 ​Welcome to Docs Cook-Off! Where we sizzle sidebars, marinate markdown and juilenne javascript to help you find the perfect platform for your documentation needs.
 
 This is the **Nextra** branch, featuring Nextra, the documentation platform built on Next.js. It's the documentation engine behind the docs for [GraphQL](https://graphql.org/), [CodeSandbox](https://codesandbox.io/docs/learn), [Auth.js](https://authjs.dev/), [Irys](https://docs.irys.xyz/), [Avail](https://docs.availproject.org/) and more. 
