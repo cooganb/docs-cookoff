@@ -151,7 +151,7 @@ You can also custom style some elements of search through properties in `theme.c
 
 Nextra leverages Next.js SEO options, such as same suffix for site titles, configuring `<head>` tags with meta, title, favicon, etc; and dynamic tags based on page. [More information here.](https://nextra.site/docs/docs-theme/theme-configuration#search)
 
-## Grabbag 
+## Grab Bag 
 
 ### Internationalization 
 Nextra supports multi-language docs through Next.js Internationalized Routing out of the box. More information [here.](https://nextra.site/docs/guide/i18n)
