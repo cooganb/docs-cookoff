@@ -8,7 +8,7 @@
 
 Each documentation platform has its own branch in this repo. So far, the ones we have available are:
 
-* Nextra
+* [Nextra](https://github.com/cooganb/docs-cookoff/tree/nextra)
 * Mintlify (🔜)
 * Docusaurus (🔜)
 
