@@ -1,14 +1,8 @@
-![promo header](./assets/cook-off-promo.png)
+![promo header](./assets/docusaurus-logo-chefs-kiss.png)
 
-# 👨‍🍳👨‍🍳 Docs Cook-Off Main Repo
+# 👨‍🍳👨‍🍳 Docs Cook-Off :: Docusaurus Edition
 
 ​Welcome to Docs Cook-Off! Where we sizzle sidebars, marinate markdown and juilenne javascript to help you find the perfect platform for your documentation needs.
 
-​For each Docs Cook-off, we select a popular documentation platform or service. Then, we bring in a world-class team to help us cook up a few challenges with that platform. For each challenge, we use the same lorem ipsum text and documentation filler.
-
-Each documentation platform has its own branch in this repo. So far, the ones we have available are:
-
-* Nextra
-* Mintlify (🔜)
-* Docusaurus (🔜)
+This is the Docusaurus branch, featuring Docusaurus (duh), the Facebook-supported React-based documentation platform.
 
