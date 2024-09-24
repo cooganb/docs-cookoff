@@ -8,7 +8,13 @@
 
 Each documentation platform has its own branch in this repo. So far, the ones we have available are:
 
-* [Nextra](https://github.com/cooganb/docs-cookoff/tree/nextra)
-* Mintlify (🔜)
 * Docusaurus (🔜)
-
+* Mintlify (🔜)
+* [Nextra](https://github.com/cooganb/docs-cookoff/tree/nextra)
+* Readme (🔜)
+* Gitbook (🔜)
+* VitePress (🔜)
+* Astro (🔜)
+* Vocs (🔜)
+* Mkdocs (🔜)
+* mdBook (🔜)
