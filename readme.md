@@ -1,4 +1,4 @@
-![promo header](./assets/cook-off-promo.png)
+![promo header](./assets/mintlify-chef-hat.png)
 
 # 👨‍🍳👨‍🍳 Docs Cook-Off :: Mintlify Edition
 
