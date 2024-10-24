@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Docs Cook-Off',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -69,13 +69,20 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
+            sidebarId: 'mySidebar',
+            position: 'right',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            type: 'doc',
+            position: 'right',
+            docId: 'intro',
+            label: 'Docs',
+          },
+         
+          // {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: 'https://github.com/cooganb/docs-cookoff',
             label: 'GitHub',
             position: 'right',
           },
@@ -111,7 +118,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/cooganb/docs-cookoff',
               },
             ],
           },
